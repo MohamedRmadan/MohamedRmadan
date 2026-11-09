@@ -140,17 +140,4 @@ Android (Java)  ──►  Linux & server admin  ──►  DevOps & full-stack 
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamedRmadan&theme=tokyonight" alt="GitHub stats"/>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamedRmadan&theme=tokyonight" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohamedRmadan&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
----
-
 <p align="center"><b>Clean code, solid ERP, and a bit of AI magic. ✨</b></p>
